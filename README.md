@@ -1,0 +1,14 @@
+# dream2ltexx-user 9 PPR1.180610.011 G955FXXUCDVG4 release-keys
+- manufacturer: samsung
+- platform: 
+- codename: dream2lte
+- flavor: dream2ltexx-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: G955FXXUCDVG4
+- tags: release-keys
+- fingerprint: samsung/dream2ltexx/dream2lte:9/PPR1.180610.011/G955FXXUCDVG4:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: dream2ltexx-user-9-PPR1.180610.011-G955FXXUCDVG4-release-keys
+- repo: samsung_dream2lte_dump
